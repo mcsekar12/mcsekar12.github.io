@@ -1,0 +1,55 @@
+body{
+
+	font:"Helvetica Neue",Helvetica,sans-serif;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.chan_img {
+height:200px;
+    margin-top:50px;
+    border-radius:100px;
+    margin-left:70px;
+    float:right;
+}
+
+.skills li{
+
+	 border: 1px solid green;
+    display: inline-block;
+    height: 115px;
+    list-style-type: none;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 115px;
+}
+
+.section_container{
+	
+background: #fff none repeat scroll 0 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), -1px 0 0 rgba(0, 0, 0, 0.03), 1px 0 0 rgba(0, 0, 0, 0.03), 0 1px 0 rgba(0, 0, 0, 0.12);
+    margin: 10px 10px 10px 50px;
+    padding: 20px;
+	}
+
+section  h1
+{
+padding:10px 10px 10px 45px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

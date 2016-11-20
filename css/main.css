@@ -6,6 +6,9 @@ body{
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+li{
+     list-style-type: none;
+}
 
 .chan_img {
 height:200px;
@@ -40,8 +43,20 @@ section  h1
 padding:10px 10px 10px 45px;
 
 }
+#connect ul{
+    margin-left: 10px;
+    margin-top: 30px;
+}
 
+#connect ul li {
 
+    border: 1px solid black;
+    display: inline;
+    font-size: 25px;
+    margin-right: 10px;
+    padding: 10px;
+
+} 
 
 
 
